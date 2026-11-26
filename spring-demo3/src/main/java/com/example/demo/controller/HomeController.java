@@ -9,7 +9,7 @@ public class HomeController {
 	
 	@GetMapping("/msg")
 	public String msg() {
-	return "i love u";
+	return "i love spring boot";
 
 }
 }
